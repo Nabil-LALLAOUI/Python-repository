@@ -8,4 +8,4 @@ Le deuxième projet que j'ai réalisé consiste en la création d'une classe qui
 
 N'hésitez pas à explorer mes projets et à les cloner pour les essayer vous-même. J'apprécie les retours d'expérience et les contributions de la communauté, alors n'hésitez pas à ouvrir une issue ou à proposer des améliorations.
 
-Happy coding!!
+Happy coding!!!
